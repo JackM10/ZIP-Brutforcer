@@ -1,0 +1,7 @@
+d:\jd\my documents\visual studio 2015\Projects\ZIPbrutforcer\ZIPbrutforcer\bin\Debug\ZIPbrutforcer.exe.config
+d:\jd\my documents\visual studio 2015\Projects\ZIPbrutforcer\ZIPbrutforcer\bin\Debug\ZIPbrutforcer.exe
+d:\jd\my documents\visual studio 2015\Projects\ZIPbrutforcer\ZIPbrutforcer\bin\Debug\ZIPbrutforcer.pdb
+d:\jd\my documents\visual studio 2015\Projects\ZIPbrutforcer\ZIPbrutforcer\bin\Debug\Ionic.Zip.dll
+d:\jd\my documents\visual studio 2015\Projects\ZIPbrutforcer\ZIPbrutforcer\obj\Debug\ZIPbrutforcer.csprojResolveAssemblyReference.cache
+d:\jd\my documents\visual studio 2015\Projects\ZIPbrutforcer\ZIPbrutforcer\obj\Debug\ZIPbrutforcer.exe
+d:\jd\my documents\visual studio 2015\Projects\ZIPbrutforcer\ZIPbrutforcer\obj\Debug\ZIPbrutforcer.pdb
